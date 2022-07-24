@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="@dimen/list_item_height"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:background="@color/tan_background">
+
+    <ImageView
+        android:layout_width="@dimen/list_item_height"
+        android:layout_height="@dimen/list_item_height"
+        android:id="@+id/image_view"
+        tools:src="@drawable/family_mother"/>
+
+    <LinearLayout
+        android:id="@+id/text_box"
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/list_item_height"
+        android:orientation="vertical"
+        android:layout_alignParentTop="true"
+        android:layout_toEndOf="@id/image_view"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentEnd="true"
+        android:paddingStart="16dp"
+        android:paddingEnd="0dp"
+        tools:background="@color/numbers_cat">
+
+        <TextView
+            android:id="@+id/hindi_text_view"
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_weight="1"
+            android:gravity="bottom"
+            android:textStyle="bold"
+            android:textAppearance="?android:textAppearanceSmall"
+            android:textColor="@color/text_color"
+            tools:textColor="#fff"
+            tools:text="EK"/>
+
+        <TextView
+            android:id="@+id/default_text_view"
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_weight="1"
+            android:gravity="top"
+            android:textAppearance="?android:textAppearanceSmall"
+            android:textColor="@color/text_color"
+            tools:textColor="#fff"
+            tools:text="ONE"/>
+
+    </LinearLayout>
+
+    <ImageView
+        android:layout_width="24dp"
+        android:layout_height="24dp"
+        android:src="@drawable/play_arrow"
+        android:layout_alignParentEnd="true"
+        android:layout_marginEnd="16dp"
+        android:layout_centerVertical="true"/>
+
+</RelativeLayout>
