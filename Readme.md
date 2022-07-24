@@ -7,7 +7,7 @@ When each list item, i.e., a word or sentence is touched, the app plays its Hind
 
 Below are the screenshots of the App:
 
-![Numbers Fragment ss](ss/Numbers.png)  
-![Family Fragment ss](ss/Family.png)  
-![Colors Fragment ss](ss/Colors.png)  
-![Phrases Fragment ss](ss/Phrases.png)
+<img src="ss/Numbers.png" alt="Numbers Fragment ss" width="300px"/>
+<img src="ss/Family.png" alt="Family Fragment ss" width="300px"/>  
+<img src="ss/Colors.png" alt="Colors Fragment ss" width="300px"/>
+<img src="ss/Phrases.png" alt="Phrases Fragment ss" width="300px"/>
