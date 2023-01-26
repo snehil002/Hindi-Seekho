@@ -1,13 +1,19 @@
 # Hindi Seekho
 Made by Snehil Kumar
 
->_A Hindi Language Learning App For Kids_
+> A Hindi Language Teaching App For Kids
 
-When each list item, i.e., a word or sentence is touched, the app plays its Hindi pronunciation.
+## Description
+This App teaches kids the Hindi Language.  
+There are 4 categories of words and sentences.  
+In each category, there are list of words.  
+Each list item contains a Hindi Word, written in  
+English.  
+Each list item also contains the English translation  
+of the Hindi word and an image of that word.  
+When a list item is touched, the app plays its  
+Hindi pronunciation.  
 
-Below are the screenshots of the App:
-
-<img src="ss/Numbers.png" alt="Numbers Fragment ss" width="300px"/>  
-<img src="ss/Family.png" alt="Family Fragment ss" width="300px"/>  
-<img src="ss/Colors.png" alt="Colors Fragment ss" width="300px"/>  
-<img src="ss/Phrases.png" alt="Phrases Fragment ss" width="300px"/>
+## Screenshots
+Find screenshots in the ss/ folder in the root  
+directory.  
