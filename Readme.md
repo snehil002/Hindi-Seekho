@@ -1,8 +1,8 @@
 # Hindi Seekho
 ~ by Snehil Kumar
 
-> A Hindi Language Teaching App For Kids
-> Find screenshots in the ss/ folder in the root  
+> A Hindi Language Teaching App For Kids  
+Find screenshots in the ss/ folder in the root  
 directory.  
 
 ## About the App and How it works
