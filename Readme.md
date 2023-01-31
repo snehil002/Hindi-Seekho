@@ -24,6 +24,9 @@ word, and a small illustrative image on the left.
 Each list item can be 'touched', to hear its Hindi  
 pronunciation.
 
+This is a Course Project made individually with some  
+changes.  
+
 ## Challenges and Solutions
 > PROBLEM 1:  
 
